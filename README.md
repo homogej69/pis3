@@ -43,7 +43,7 @@
   
 <body>
 
-  <h1>KOčka leze dírou</h1>
+  <h1>Kočka leze dírou</h1>
   <p>Tuto písníčku mám rád, protože mám doma kočku.</p>
   <img src="https://malotridka.lusa.cz/wp-content/uploads/2015/02/kocka_leze_dirou.jpg">
 
